@@ -1,0 +1,14 @@
+[
+    {
+      "UserId": 1,
+      "GroceryId": 1
+    },
+    {
+      "UserId": 1,
+      "GroceryId": 2
+    },
+    {
+      "UserId": 2,
+      "GroceryId": 1
+    }
+  ]
